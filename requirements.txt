@@ -1,0 +1,8 @@
+streamlit
+google-generative-ai
+nylas
+pinecone-client
+pandas
+matplotlib
+streamlit-extras
+python-dotenv
